@@ -17,7 +17,7 @@ st.markdown(
 
 st.markdown("""
     <div style="text-align: center; margin-bottom: 30px;">
-        <h1 style="font-size: 100px; color:#FFFFFF;">PalMotion</h1>
+        <h1 style="font-size: 80px; color:#FFFFFF;">PalMotion</h1>
         <h3 style="font-size: 30px; color:#117A65;">No hay excusas</h3>
     </div>
 """, unsafe_allow_html=True)
@@ -108,12 +108,12 @@ ejercicios = {
             {"titulo": "Fondo de tríceps", "descripcion": "3 series de 12 repeticiones. Descanso de 60 segundos", "imagen": "g9.png"}
         ],
         "Ejercicios Genéricos": [
-            {"titulo": "Sentadillas con barra", "descripcion": "3 series de 10 repeticiones. Descanso de 60 segundos.", "imagen": "g13.png"},
-            {"titulo": "Press de banca", "descripcion": "3 series de 10 repeticiones. Descanso de 60 segundos", "imagen": "g14.png"},
-            {"titulo": "Remo con mancuernas", "descripcion": "3 series de 10 repeticiones. Descanso de 60 segundos", "imagen": "g15.png"},
-            {"titulo": "Zancadas alternas", "descripcion": "3 series de 10 repeticiones por pierna. Descanso de 60 segundos", "imagen": "g16.png"},
-            {"titulo": "Press militar", "descripcion": "3 series de 10 repeticiones. Descanso de 60 segundos", "imagen": "g17.png"},
-            {"titulo": "Plancha", "descripcion": "3 repeticiones de 30-60 segundos. Descanso de 30 segundos", "imagen": "g18.png"}
+            {"titulo": "Sentadillas con barra", "descripcion": "3 series de 10 repeticiones. Descanso de 60 segundos.", "imagen": "g11.png"},
+            {"titulo": "Press de banca", "descripcion": "3 series de 10 repeticiones. Descanso de 60 segundos", "imagen": "g12.png"},
+            {"titulo": "Remo con mancuernas", "descripcion": "3 series de 10 repeticiones. Descanso de 60 segundos", "imagen": "g13.png"},
+            {"titulo": "Zancadas alternas", "descripcion": "3 series de 10 repeticiones por pierna. Descanso de 60 segundos", "imagen": "g14.png"},
+            {"titulo": "Press militar", "descripcion": "3 series de 10 repeticiones. Descanso de 60 segundos", "imagen": "g15.png"},
+            {"titulo": "Plancha", "descripcion": "3 repeticiones de 30-60 segundos. Descanso de 30 segundos", "imagen": "n10.png"}
         ]
     }
 }
