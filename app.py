@@ -96,18 +96,16 @@ ejercicios = {
         "Tren Inferior": [
             {"titulo": "Sentadillas con barra", "descripcion": "4 series de 12 repeticiones. Descanso de 90 segundos", "imagen": "g1.png"},
             {"titulo": "Prensa de piernas", "descripcion": "3 series de 12 repeticiones. Descanso de 60 segundos", "imagen": "g2.png"},
-            {"titulo": "Peso muerto rumano", "descripcion": "4 series de 10 repeticiones. Descanso de 90 segundos", "imagen": "g3.png"},
-            {"titulo": "Zancadas con mancuernas", "descripcion": "3 series de 10 repeticiones por pierna. Descanso de 60 segundos", "imagen": "g4.png"},
-            {"titulo": "Elevaciones de talones", "descripcion": "3 series de 20 repeticiones. Descanso de 30 segundos", "imagen": "g5.png"},
-            {"titulo": "Hip trust", "descripcion": "3 series de 15 repeticiones. Descanso de 60 segundos", "imagen": "g6.png"}
+            {"titulo": "Zancadas con mancuernas", "descripcion": "3 series de 10 repeticiones por pierna. Descanso de 60 segundos", "imagen": "g3.png"},
+            {"titulo": "Elevaciones de talones", "descripcion": "3 series de 20 repeticiones. Descanso de 30 segundos", "imagen": "g4.png"},
+            {"titulo": "Hip trust", "descripcion": "3 series de 15 repeticiones. Descanso de 60 segundos", "imagen": "g5.png"}
         ],
         "Tren Superior": [
-            {"titulo": "Press de banca", "descripcion": "4 series de 12 repeticiones. Descanso de 90 segundos", "imagen": "g7.png"},
-            {"titulo": "Dominadas o jalón al pecho", "descripcion": "3 series de 10 repeticiones. Descanso de 90 segundos", "imagen": "g8.png"},
-            {"titulo": "Press militar con mancuernas", "descripcion": "3 series de 12 repeticiones. Descanso de 60 segundos", "imagen": "g9.png"},
+            {"titulo": "Press de banca", "descripcion": "4 series de 12 repeticiones. Descanso de 90 segundos", "imagen": "g6.png"},
+            {"titulo": "Dominadas o jalón al pecho", "descripcion": "3 series de 10 repeticiones. Descanso de 90 segundos", "imagen": "g7.png"},
             {"titulo": "Remo con barra", "descripcion": "3 series de 12 repeticiones. Descanso de 60 segundos", "imagen": "g10.png"},
-            {"titulo": "Curl bíceps con barra", "descripcion": "3 series de 12 repeticiones. Descanso de 60 segundos", "imagen": "g11.png"},
-            {"titulo": "Fondo de tríceps", "descripcion": "3 series de 12 repeticiones. Descanso de 60 segundos", "imagen": "g12.png"}
+            {"titulo": "Curl bíceps con barra", "descripcion": "3 series de 12 repeticiones. Descanso de 60 segundos", "imagen": "g8.png"},
+            {"titulo": "Fondo de tríceps", "descripcion": "3 series de 12 repeticiones. Descanso de 60 segundos", "imagen": "g9.png"}
         ],
         "Ejercicios Genéricos": [
             {"titulo": "Sentadillas con barra", "descripcion": "3 series de 10 repeticiones. Descanso de 60 segundos.", "imagen": "g13.png"},
